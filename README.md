@@ -35,19 +35,25 @@ https://purple-peaceful-marmot-693.mypinata.cloud/ipfs/bafkreierxd5evxb6hgbwilia
 
 buyAmount：设置初始买入金额（整数），参考下方换算表。
 
+由于PUMP.FUN发行的代币 图片和社交信息需要从ipfs获取所以需要先把数据上传到ipfs再填入ipfsurl就可以了。ipfs数据在YUAN.json中修改！
+
 
 ### 运行
 在终端先编译程序
-```bash
+```
 npx tsc
+```
 
 执行程序：
-```bash
+```
 node example.js
+```
 
 
 ## 注意事项
 费用：确保钱包有足够资金支付 Gas 和买入金额。
+
+如有不懂可联系飞机（Telegram）：useusege
 
 
 
