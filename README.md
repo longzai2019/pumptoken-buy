@@ -53,7 +53,7 @@ node example.js
 ## 注意事项
 费用：确保钱包有足够资金支付 Gas 和买入金额。
 
-如有不懂可联系飞机（Telegram）：useusege
+# 如有不懂可联系飞机（Telegram）：useusege
 
 
 
