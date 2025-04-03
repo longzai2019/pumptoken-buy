@@ -1,4 +1,4 @@
-# MemeCoinLauncher 🚀
+# pumptoken-buy 🚀
 
 **通过 [pump.fun](https://pump.fun) 区块链合约发行 Meme 币并实现捆绑买入的工具**  
 这是一个自动化工具，旨在简化 Meme 币的创建和初始购买流程。通过智能合约打包操作，用户可以快速部署并启动自己的 Meme 币项目。本仓库已包含所有依赖库（`node_modules`），开箱即用！
