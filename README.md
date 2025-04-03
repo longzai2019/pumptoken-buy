@@ -23,6 +23,7 @@
 打开 example.ts：
 使用任意文本编辑器（如 VS Code、Notepad++）打开项目根目录下的 example.ts 文件。
 修改以下参数：
+
 deployerPrivatekey：你的钱包私钥，用于部署和交易。
 
 tokenName：设置代币名称，例如 "Vine2.0"。
