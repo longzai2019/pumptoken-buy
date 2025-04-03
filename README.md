@@ -37,9 +37,12 @@ buyAmount：设置初始买入金额（整数），参考下方换算表。
 
 
 ### 运行
-编译 TypeScript：
+在终端先编译程序
+```bash
 npx tsc
+
 执行程序：
+```bash
 node example.js
 
 
