@@ -56,7 +56,7 @@ This is an automated tool designed to simplify the creation and initial purchase
 
 ## Contact
 
-For any questions, reach out via Telegram: @useusege
+## For any questions, reach out via Telegram: @useusege
 
 
 
