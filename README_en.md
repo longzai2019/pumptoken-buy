@@ -37,9 +37,30 @@ This is an automated tool designed to simplify the creation and initial purchase
 
    **Note**: Since pump.fun tokens fetch images and social info from IPFS, you need to upload your metadata to IPFS first and then use the resulting IPFS URL. Edit the metadata in `YUAN.json`!
 
-### Running the Program
+## Running the Program
 1. **Compile the Program**:
    In the terminal, run:
    ```
    npx tsc
    ```
+2.**Execute the Program**
+   ```
+   node example.js
+   ```
+
+## Notes
+
+*Funds:* Ensure your wallet has sufficient funds to cover Gas fees and the purchase amount.
+
+*IPFS Setup:* Upload your token metadata (image, social info) to IPFS and update the tokenUri accordingly. Modify YUAN.json for metadata details.
+
+## Contact
+
+For any questions, reach out via Telegram: @useusege
+
+
+
+
+
+
+   
